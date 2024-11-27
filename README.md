@@ -3,7 +3,7 @@ A Python-based Text-to-Speech (TTS) utility converts text into speech with custo
 
   🚀 Features: 
     🎤 Customizable Voices: Choose from male or female voices or system-installed options.
-    ⚡ Adjustable Speed: Set speaking rate to suit your needs—fast or slow.
+    ⚡ Adjustable Speed: Set the speaking rate to suit your needs—fast or slow.
     🔧 Easy Integration: Reusable as a standalone script or as part of larger projects.
     👨‍💻 Interactive Mode: Simple prompts for user input and configuration.
   
@@ -22,7 +22,7 @@ Prerequisites:
 Steps
   Clone the repository:
 
-- git clone https://github.com/your-username/text-to-speech.git
+- git clone https://github.com/shashwatttttt/Text-To-speech.git
   
 Navigate to the project directory:
 
